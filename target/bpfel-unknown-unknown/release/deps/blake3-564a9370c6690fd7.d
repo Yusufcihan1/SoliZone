@@ -1,0 +1,12 @@
+/mnt/c/Users/W10/Desktop/project/SocialBlock-master/target/bpfel-unknown-unknown/release/deps/blake3-564a9370c6690fd7.rmeta: /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/mnt/c/Users/W10/Desktop/project/SocialBlock-master/target/bpfel-unknown-unknown/release/deps/libblake3-564a9370c6690fd7.rlib: /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/mnt/c/Users/W10/Desktop/project/SocialBlock-master/target/bpfel-unknown-unknown/release/deps/blake3-564a9370c6690fd7.d: /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs:
+/home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs:
+/home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs:
+/home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs:
+/home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs:
+/home/yuci/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs:

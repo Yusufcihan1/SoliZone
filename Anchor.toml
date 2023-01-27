@@ -1,0 +1,18 @@
+[features]
+seeds = false
+[programs.devnet]
+post = "F6cxhZ5qGWb6fgF6SZCJNDKXjizcB3mJ8V9SD8UrPTGf"
+comment = "6EZZ4LTfRkJU5WJePovrQMTeZe3WExi7ncUa6PFTwR1o"
+user = "9Vivv3pgBiKNkK4eE8nQ5PcMUR8MbomH7MA5mNVZqvfF"
+block = "DT3vsZQWR8CiHJqjTvzJpTbnGUaHqq2uw9t9aVmcrTEm"
+message = "GjFE7X2iV7rtX5tHNdoD8D5gXikDFYBn5BTLPCWWiAws"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/aland/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
